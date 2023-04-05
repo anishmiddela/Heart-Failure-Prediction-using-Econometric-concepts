@@ -1,0 +1,45 @@
+age,,,creatinine_phosphokinase,,,ejection_fraction,,,platelets,,,serum_creatinine,,,serum_sodium,,,time,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Mean,60.83389298,,Mean,581.8394649,,Mean,38.08361204,,Mean,263358.0293,,Mean,1.393879599,,Mean,136.6254181,,Mean,130.2608696,,,,,,
+Standard Error,0.280439942,,Standard Error,22.87615339,,Standard Error,0.279026089,,Standard Error,2305.897837,,Standard Error,0.024390298,,Standard Error,0.104031504,,Standard Error,1.829884266,,,,,,
+Median,60,,Median,250,,Median,38,,Median,262000,,Median,1.1,,Median,137,,Median,115,,,,,,
+Mode,60,,Mode,582,,Mode,35,,Mode,263358.03,,Mode,1,,Mode,136,,Mode,187,,,,,,
+Standard Deviation,11.87821243,,Standard Deviation,968.934053,,Standard Deviation,11.81832777,,Standard Deviation,97667.77212,,Standard Deviation,1.033066628,,Standard Deviation,4.406320622,,Standard Deviation,77.50591404,,,,,,
+Sample Variance,141.0919305,,Sample Variance,938833.199,,Sample Variance,139.6728713,,Sample Variance,9538993711,,Sample Variance,1.067226658,,Sample Variance,19.41566143,,Sample Variance,6007.166711,,,,,,
+Kurtosis,-0.199005082,,Kurtosis,24.78281818,,Kurtosis,0.024129948,,Kurtosis,6.106253737,,Kurtosis,25.45257116,,Kurtosis,4.045751913,,Kurtosis,-1.211906696,,,,,,
+Skewness,0.421288888,,Skewness,4.444405547,,Skewness,0.553055187,,Skewness,1.456192369,,Skewness,4.43732116,,Skewness,-1.043743362,,Skewness,0.127267035,,,,,,
+Range,55,,Range,7838,,Range,66,,Range,824900,,Range,8.9,,Range,35,,Range,281,,,,,,
+Minimum,40,,Minimum,23,,Minimum,14,,Minimum,25100,,Minimum,0.5,,Minimum,113,,Minimum,4,,,,,,
+Maximum,95,,Maximum,7861,,Maximum,80,,Maximum,850000,,Maximum,9.4,,Maximum,148,,Maximum,285,,,,,,
+Sum,109136.004,,Sum,1043820,,Sum,68322,,Sum,472464304.5,,Sum,2500.62,,Sum,245106,,Sum,233688,,,,,,
+Count,1794,,Count,1794,,Count,1794,,Count,1794,,Count,1794,,Count,1794,,Count,1794,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+age,,anaemia,,creatinine_phosphokinase,,diabetes,,ejection_fraction,,high_blood_pressure,,platelets,,serum_creatinine,,serum_sodium,,sex,,smoking,,time,,DEATH_EVENT,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Mean,60.82943144,Mean,0.431438127,Mean,581.8394649,Mean,0.418060201,Mean,38.08361204,Mean,0.351170569,Mean,263358.0293,Mean,1.393879599,Mean,136.6254181,Mean,0.648829431,Mean,0.321070234,Mean,130.2608696,Mean,0.321070234
+Standard Error,0.280444362,Standard Error,0.011696555,Standard Error,22.87615339,Standard Error,0.011648454,Standard Error,0.279026089,Standard Error,0.011272862,Standard Error,2305.897837,Standard Error,0.024390298,Standard Error,0.104031504,Standard Error,0.011272862,Standard Error,0.01102611,Standard Error,1.829884266,Standard Error,0.01102611
+Median,60,Median,0,Median,250,Median,0,Median,38,Median,0,Median,262000,Median,1.1,Median,137,Median,1,Median,0,Median,115,Median,0
+Mode,60,Mode,0,Mode,582,Mode,0,Mode,35,Mode,0,Mode,263358.03,Mode,1,Mode,136,Mode,1,Mode,0,Mode,187,Mode,0
+Standard Deviation,11.87839965,Standard Deviation,0.495415057,Standard Deviation,968.934053,Standard Deviation,0.493377701,Standard Deviation,11.81832777,Standard Deviation,0.477469243,Standard Deviation,97667.77212,Standard Deviation,1.033066628,Standard Deviation,4.406320622,Standard Deviation,0.477469243,Standard Deviation,0.467017895,Standard Deviation,77.50591404,Standard Deviation,0.467017895
+Sample Variance,141.0963781,Sample Variance,0.245436079,Sample Variance,938833.199,Sample Variance,0.243421556,Sample Variance,139.6728713,Sample Variance,0.227976878,Sample Variance,9538993711,Sample Variance,1.067226658,Sample Variance,19.41566143,Sample Variance,0.227976878,Sample Variance,0.218105714,Sample Variance,6007.166711,Sample Variance,0.218105714
+Kurtosis,-0.198546643,Kurtosis,-1.925366336,Kurtosis,24.78281818,Kurtosis,-1.891534299,Kurtosis,0.024129948,Kurtosis,-1.612291281,Kurtosis,6.106253737,Kurtosis,25.45257116,Kurtosis,4.045751913,Kurtosis,-1.612291281,Kurtosis,-1.413102986,Kurtosis,-1.211906696,Kurtosis,-1.413102986
+Skewness,0.42239473,Skewness,0.277094496,Skewness,4.444405547,Skewness,0.332529216,Skewness,0.553055187,Skewness,0.624105272,Skewness,1.456192369,Skewness,4.43732116,Skewness,-1.043743362,Skewness,-0.624105272,Skewness,0.767120345,Skewness,0.127267035,Skewness,0.767120345
+Range,55,Range,1,Range,7838,Range,1,Range,66,Range,1,Range,824900,Range,8.9,Range,35,Range,1,Range,1,Range,281,Range,1
+Minimum,40,Minimum,0,Minimum,23,Minimum,0,Minimum,14,Minimum,0,Minimum,25100,Minimum,0.5,Minimum,113,Minimum,0,Minimum,0,Minimum,4,Minimum,0
+Maximum,95,Maximum,1,Maximum,7861,Maximum,1,Maximum,80,Maximum,1,Maximum,850000,Maximum,9.4,Maximum,148,Maximum,1,Maximum,1,Maximum,285,Maximum,1
+Sum,109128,Sum,774,Sum,1043820,Sum,750,Sum,68322,Sum,630,Sum,472464304.5,Sum,2500.62,Sum,245106,Sum,1164,Sum,576,Sum,233688,Sum,576
+Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794,Count,1794
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Percentage,,,,,,,,,,,,,,,,,,,,,,
+,,Anaemia,43,,,,,,,,,,,,,,,,,,,,,,
+,,High Blood pressure,35,,,,,,,,,,,,,,,,,,,,,,
+,,Diabeties,41,,,,,,,,,,,,,,,,,,,,,,
+,,SEX,64,,,,,,,,,,,,,,,,,,,,,,
+,,Smoking,32,,,,,,,,,,,,,,,,,,,,,,
+,,Death,32,,,,,,,,,,,,,,,,,,,,,,
